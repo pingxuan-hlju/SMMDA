@@ -8,3 +8,9 @@ The project is an implementation of structure-sensitive transformer and multi-vi
 - Supports multiple datasets with flexible configurations.
 - drug_names.txt: Contains the names of 1373 drugs.
 - microbe_names.txt: Contains the names of 173 microbes.
+- drug_features.txt：Contains microbial association information for 1,373 drugs.
+- drug_names.txt: Contains the names of 1373 drugs.
+- drug_similarity.txt: Contains the drug similarities.
+- microbe_features.txt：Contains drug association information for 173 microbes.
+- microbe_names.txt: Contains the names of 173 microbes.
+- microbe_similarity.txt: Contains the microbe similarities.
